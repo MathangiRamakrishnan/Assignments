@@ -10,7 +10,6 @@ public class Report {
 		System.out.println("Name of the college : " + result.collegeName);
 		System.out.println("Marks scored by the student is : " + result.marksScored);
 		System.out.println("CGPA is : " + result.cgpa);
-		System.out.println("Git is working fine for commits");
 	}
 
 }
